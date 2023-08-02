@@ -1,15 +1,15 @@
 # Dry-Beans-Classification
 A dry beans classification project using machine-learning models like decision tree, random forest, gradient boosting, xg boost and stacking
 ## Table of Contents
-Problem Statment
-Relevant Information
-Data description
-Understanding the dataset
-Exploratory Data Analysis
-Preprocessing data
-Modelling
-Stacking Model
-Feature Importance
+* Problem Statment
+* Relevant Information
+* Data description
+* Understanding the dataset
+* Exploratory Data Analysis
+* Preprocessing data
+* Modelling
+* Stacking Model
+* Feature Importance
 
 ## Problem statement
 The goal of this project is to predict the type of bean using various features of the bean. This is a multi-class classification problem. F1-score is taken as an evaluation metric.
